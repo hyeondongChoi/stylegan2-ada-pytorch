@@ -1,2 +1,8 @@
 __pycache__/
 .cache/
+
+data
+
+training-runs_5k-256
+training-runs_400-256
+training-runs_400-512
